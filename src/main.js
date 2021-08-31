@@ -3,7 +3,7 @@ import ViewUI from 'view-design';
 import VueRouter from 'vue-router';
 import Routers from './router';
 import Util from './libs/util';
-import App from './app.vue';
+import App from './App.vue';
 import 'view-design/dist/styles/iview.css';
 
 Vue.use(VueRouter);
